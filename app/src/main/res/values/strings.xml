@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_input_password">InputPasswordActivity</string>
+    <string name="title_activity_edit_note2">编辑日记</string>
+    <string name="btn_save">保存</string>
+    <string name="my_note">我的日记</string>
+    <string name="zhi_hu">知乎豆瓣</string>
+    <string name="jing_pin">精品美图</string>
+    <string name="music">流行音乐</string>
+    <string name="Communicate">Communicate</string>
+    <string name="setting">设置</string>
+    <string name="share">分享</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_set_password">SetPasswordActivity</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+</resources>

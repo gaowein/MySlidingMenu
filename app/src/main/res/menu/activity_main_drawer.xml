@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@mipmap/news"
+            android:title="@string/my_note" />
+        <item
+            android:id="@+id/nav_dz"
+            android:icon="@mipmap/book"
+            android:title="@string/zhi_hu" />
+        <item
+            android:id="@+id/nav_photos"
+            android:icon="@mipmap/photo"
+            android:title="@string/jing_pin" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@mipmap/music"
+            android:title="@string/music" />
+    </group>
+
+    <item android:title="@string/Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@mipmap/settings"
+                android:title="@string/setting"/>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/share"
+                android:title="@string/share"/>
+        </menu>
+    </item>
+
+</menu>
